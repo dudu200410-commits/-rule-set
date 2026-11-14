@@ -1,0 +1,2 @@
+# -rule-set
+karing用
